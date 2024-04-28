@@ -6,3 +6,5 @@ Rock Paper Scissors Game
   I added a score tracker where you can clearly see by how many points you ar winning/loose/tied.
 
   I also inlcuded a reset button in case you get tired of seeing by how much you're loosing, you can rest the game and re-start it! 
+
+  I hope I get a 4 because I think I deserve it, as you can see I added a transition wheen you click "Let's Start", I added a reset button and I added a Score tracker. 
