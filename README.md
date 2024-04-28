@@ -8,3 +8,9 @@ Rock Paper Scissors Game
   I also inlcuded a reset button in case you get tired of seeing by how much you're loosing, you can rest the game and re-start it! 
 
   I hope I get a 4 because I think I deserve it, as you can see I added a transition wheen you click "Let's Start", I added a reset button and I added a Score tracker. 
+
+  If you enjoyed and liked my project, and are considering giving me a 4, please do:).
+
+  Sincerely,
+Diana Freitas.
+
